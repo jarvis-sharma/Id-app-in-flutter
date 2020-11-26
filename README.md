@@ -1,7 +1,7 @@
-# second
+# Id app
 
-A new Flutter project.
-
+How it looks
+![alt text](https://github.com/jarvis-sharma/Id-app-in-flutter/blob/main/assets/id.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
